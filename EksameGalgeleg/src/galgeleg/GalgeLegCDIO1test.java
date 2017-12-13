@@ -38,6 +38,8 @@ public class GalgeLegCDIO1test {
 		
 	}
 	
+	
+	
 	@Test
 	public void gameConstruct() {
 		//Her køres et komplet spil, med et tilfældigt ord. Spillet skal returnere når
