@@ -90,6 +90,9 @@ public class Galgelogik {
   }
   
   
+  
+  
+  
 
   public void gætBogstav(String bogstav) {
     if (bogstav.length() != 1) return;
