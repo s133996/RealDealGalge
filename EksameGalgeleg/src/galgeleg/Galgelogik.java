@@ -88,7 +88,7 @@ public class Galgelogik {
       }
     }
   }
-  
+  //kommentare
   
   
   
@@ -140,7 +140,7 @@ public class Galgelogik {
     return sb.toString();
   }
 
-
+//det er jul det er cool
   public void hentOrdFraDr() throws Exception {
     String data = hentUrl("http://dr.dk");
     //System.out.println("data = " + data);
